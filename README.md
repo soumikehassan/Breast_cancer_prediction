@@ -1,1 +1,2 @@
-# Breast_cancer_prediction
+# Breast Cancer Prediction using PyCaret ###
+Hello,I am Md Soumike Hassan.This is my first machine learning project, and it has been an invaluable learning experience. Through this project, I have had the opportunity to explore new data analysis modules and packages, as well as discover various data preprocessing techniques. I would like to extend my heartfelt gratitude to Shakil, my mentor and friend from Study Mart, for his guidance and support throughout this journey. This project has not only enriched my knowledge but also kindled my passion for machine learning. Thank you, Shakil, for being an essential part of my learning process.
